@@ -17,8 +17,6 @@ Amity Chat SDK is an easy-to-integrate solution that enables high-performing cha
 Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-chat) or view the Amity Chat [Documentation→](https://docs.amity.co/chat)
 
 <br />
-<br />
-<br />
 
 # AmityUIKit
 
@@ -62,31 +60,28 @@ AmityUIKit has sample app you can play along with it. It is written with Swift.
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
 <img align="left" src="https://user-images.githubusercontent.com/100549875/155937075-75d4d193-eb3b-4ee0-bc90-ff5518bfbf3a.jpg" alt="Amity Social Cloud SDKs" width="50%" />
 
 ## Resources
 
-**- Developer Portal** <br />
+**Developer Portal** <br />
 Learn about building, deploying, and managing Amity Social Cloud. <br />
 [Portal→](https://www.amity.co/developer-portal)
 
-**- Documentation** <br />
+**Documentation** <br />
 Everything you need to integrate Amity Social Cloud. <br />
 [Docs→](https://docs.amity.co/)
 
-**- Developer Kits** <br />
+**Developer Kits** <br />
 Explore Amity Social Cloud UI Kits and Template Apps. <br />
 [Developer Kits→](https://www.amity.co/developer-kits)
 
-**- Community** <br />
+**Community** <br />
 Join the community of Amity Social Cloud developers. <br />
 [Community→](https://community.amity.co/)
 
-**- FAQ** <br />
+**FAQ** <br />
 Get the answers to the most asked questions. <br />
 [FAQ→](https://www.amity.co/faq)
 
