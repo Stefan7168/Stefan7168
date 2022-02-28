@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/100549875/155941445-b1830713-5f9f-4903-9383-f36053a0775b.png" alt="Amity Social Cloud SDKs" width="50%" />
 
-<img align="left" src="https://user-images.githubusercontent.com/100549875/155943123-a5f2be55-5b26-4ffd-ad26-c508a6d898cf.png" alt="Amity logo" width="120px" />
+<img align="left" src="https://user-images.githubusercontent.com/100549875/155947065-3cc4291c-d600-40a1-bc49-4ff5e9b9d1be.svg" alt="Amity logo" width="120px" />
 
 <br />
 <br />
