@@ -2,6 +2,8 @@
 
 <img align="left" src="https://assets-global.website-files.com/5eddccffdb3c6a27f79757c1/5eeb0be6ba225a23e09b0a80_amity-logo.svg" alt="Amity logo" width="3.5rem" />
 
+![Logo](https://assets-global.website-files.com/5eddccffdb3c6a27f79757c1/5eeb0be6ba225a23e09b0a80_amity-logo.svg)
+
 # Amity Social Cloud SDKs
 Boost app engagement and grow your user base with plug-and-play social features. Amity modules are ready to use — the only things left to do are integration and frontend. Learn more about Amity Social Cloud: [amity.co](https://amity.co/).
 
