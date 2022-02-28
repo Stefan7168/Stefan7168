@@ -6,10 +6,6 @@
 Boost app engagement and grow your user base with plug-and-play social features. Amity modules are ready to use — the only things left to do are integration and frontend. Learn more about Amity Social Cloud: [amity.co](https://amity.co/).
 
 <br />
-| Amity Social | Amity Chat | Amity Video | Amity Bots
-| ------------------ | ------------------ |
-| iOS 12.0           |        Swift 5.3   |
-<br />
 
 ## Amity Chat
 Amity Chat SDK is an easy-to-integrate solution that enables high-performing chat services on your app. From one-on-one to large-scale group messaging, power them with Amity Chat SDK, built with messaging service APIs to ignite connections and open discussions.
