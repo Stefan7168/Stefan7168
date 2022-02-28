@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/100549875/155936713-bdecefb5-476e-4a99-8cfe-4564cd7527bd.jpg" alt="Amity Social Cloud SDKs" width="50%" />
+<img align="right" src="https://user-images.githubusercontent.com/100549875/155941445-b1830713-5f9f-4903-9383-f36053a0775b.png" alt="Amity Social Cloud SDKs" width="50%" />
 
 ![Logo](https://assets-global.website-files.com/5eddccffdb3c6a27f79757c1/5eeb0be6ba225a23e09b0a80_amity-logo.svg)
 
@@ -8,13 +8,6 @@
 Boost app engagement and grow your user base with plug-and-play social features. Amity modules are <b>ready to use</b> — the only things left to do are integration and frontend. 
 
 Learn more about Amity here: [amity.co→](https://amity.co/)
-
-<br />
-
-## Amity Chat
-Amity Chat SDK is an easy-to-integrate solution that enables high-performing chat services on your app. From one-on-one to large-scale group messaging, power them with <b>Amity Chat SDK</b>, built with <b>messaging service APIs</b> to ignite connections and open discussions.
-
-Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-chat) or view the Amity Chat [Documentation→](https://docs.amity.co/chat)
 
 <br />
 
@@ -61,7 +54,9 @@ AmityUIKit has sample app you can play along with it. It is written with Swift.
 <br />
 <br />
 
-<img align="left" src="https://user-images.githubusercontent.com/100549875/155937075-75d4d193-eb3b-4ee0-bc90-ff5518bfbf3a.jpg" alt="Amity Social Cloud SDKs" width="50%" />
+<img align="left" src="https://user-images.githubusercontent.com/100549875/155941529-e2c33f32-e1a1-4118-8588-74d87cb96ff0.png" alt="Amity Social Cloud SDKs" width="50%" />
+
+
 
 ## Resources
 
@@ -84,6 +79,27 @@ Join the community of Amity Social Cloud developers. <br />
 **FAQ** <br />
 Get the answers to the most asked questions. <br />
 [FAQ→](https://www.amity.co/faq)
+
+<br />
+
+## Amity Chat SDK
+Amity Chat SDK is an easy-to-integrate solution that enables high-performing chat services on your app. From one-on-one to large-scale group messaging, power them with <b>Amity Chat SDK</b>, built with <b>messaging service APIs</b> to ignite connections and open discussions.
+
+Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-chat) or view the Amity Chat [Documentation→](https://docs.amity.co/chat)
+
+<br />
+
+## Amity Social SDK
+Amity Chat SDK is an easy-to-integrate solution that enables high-performing chat services on your app. From one-on-one to large-scale group messaging, power them with <b>Amity Chat SDK</b>, built with <b>messaging service APIs</b> to ignite connections and open discussions.
+
+Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-chat) or view the Amity Chat [Documentation→](https://docs.amity.co/chat)
+
+<br />
+
+## Amity Video SDK
+Amity Chat SDK is an easy-to-integrate solution that enables high-performing chat services on your app. From one-on-one to large-scale group messaging, power them with <b>Amity Chat SDK</b>, built with <b>messaging service APIs</b> to ignite connections and open discussions.
+
+Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-chat) or view the Amity Chat [Documentation→](https://docs.amity.co/chat)
 
 <br />
 
