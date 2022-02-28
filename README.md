@@ -1,6 +1,5 @@
 
 
-<img align="left" src="https://assets-global.website-files.com/5eddccffdb3c6a27f79757c1/5eeb0be6ba225a23e09b0a80_amity-logo.svg" alt="Amity logo" width="3.5rem" />
 
 ![Logo](https://assets-global.website-files.com/5eddccffdb3c6a27f79757c1/5eeb0be6ba225a23e09b0a80_amity-logo.svg)
 
@@ -78,3 +77,5 @@ https://docs.amity.co/video
 <p align="center">
   <a href="https://amity.co/"><img src="https://assets-global.website-files.com/5eddccffdb3c6a27f79757c1/61ac0befb8be12727602e948_amity-social.jpg" alt="Amity Social Cloud SDKs" width="60%" /></a>
 </p>
+
+<img align="left" src="https://assets-global.website-files.com/5eddccffdb3c6a27f79757c1/5eeb0be6ba225a23e09b0a80_amity-logo.svg" alt="Amity logo" width="3.5rem" />
