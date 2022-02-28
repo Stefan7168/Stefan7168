@@ -70,23 +70,23 @@ AmityUIKit has sample app you can play along with it. It is written with Swift.
 
 ## Resources
 
-### Developer Portal
+**- Developer Portal** <br />
 Learn about building, deploying, and managing Amity Social Cloud. <br />
 [Portal→](https://www.amity.co/developer-portal)
 
-### Documentation
+**- Documentation** <br />
 Everything you need to integrate Amity Social Cloud. <br />
 [Docs→](https://docs.amity.co/)
 
-### Developer Kits
+**- Developer Kits** <br />
 Explore Amity Social Cloud UI Kits and Template Apps. <br />
 [Developer Kits→](https://www.amity.co/developer-kits)
 
-### Community
+**- Community** <br />
 Join the community of Amity Social Cloud developers. <br />
 [Community→](https://community.amity.co/)
 
-### FAQ
+**- FAQ** <br />
 Get the answers to the most asked questions. <br />
 [FAQ→](https://www.amity.co/faq)
 
