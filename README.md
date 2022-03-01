@@ -55,9 +55,7 @@ AmityUIKit has sample app you can play along with it. It is written with Swift.
 <br />
 <br />
 
-<img align="left" src="https://user-images.githubusercontent.com/100549875/155941529-e2c33f32-e1a1-4118-8588-74d87cb96ff0.png" alt="Amity Social Cloud SDKs" width="50%" />
-
-
+<img align="left" src="https://user-images.githubusercontent.com/100549875/156137190-46c08727-042b-4f3d-858b-d50868ebb0b3.png" alt="Amity Social Cloud SDKs" width="50%" />
 
 ## Resources
 
@@ -86,21 +84,21 @@ Get the answers to the most asked questions. <br />
 ## Amity Chat SDK
 Amity Chat SDK is an easy-to-integrate solution that enables high-performing chat services on your app. From one-on-one to large-scale group messaging, power them with <b>Amity Chat SDK</b>, built with <b>messaging service APIs</b> to ignite connections and open discussions.
 
-Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-chat) or view the Amity Chat [Documentation→](https://docs.amity.co/chat)
+Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-chat) or view the Amity Chat [Docs→](https://docs.amity.co/chat)
 
 <br />
 
 ## Amity Social SDK
 Get in-app communities up and running using Amity Social SDK. Enable <b>plug-and-play social features using supercharged social APIs</b> and see preference-based groups thrive within your platform.
 
-Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-social) or view the Amity Social [Documentation→](https://docs.amity.co/social)
+Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-social) or view the Amity Social [Docs→](https://docs.amity.co/social)
 
 <br />
 
 ## Amity Video SDK
 The Amity Video SDK, powered by <b>video APIs</b>, elevates your application's user experience by adding interactive features such as <b>in-app Stories and Live Streaming</b>. Engage your users with captivating, memorable virtual events to participate in along with other viewers from around the world.
 
-Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-video) or view the Amity Video [Documentation→](https://docs.amity.co/video)
+Learn more about Amity Chat on [our website→](https://www.amity.co/products/amity-video) or view the Amity Video [Docs→](https://docs.amity.co/video)
 
 <br />
 
