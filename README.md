@@ -80,6 +80,8 @@ Get the answers to the most asked questions. <br />
 [FAQ→](https://www.amity.co/faq)
 
 <br />
+<br />
+<br />
 
 ## Amity Chat SDK
 Amity Chat SDK is an easy-to-integrate solution that enables high-performing chat services on your app. From one-on-one to large-scale group messaging, power them with <b>Amity Chat SDK</b>, built with <b>messaging service APIs</b> to ignite connections and open discussions.
